@@ -2,7 +2,7 @@
 ## Author
 [Your Name] - [Your KIU Email]
 ## Final Product Screenshot
-![My App Screenshot]([screenshot.png](https://github.com/D13Karo/AIPSD_Homeworks/blob/main/Lab1HW/Screenshot%202025-10-12%20214928.png))
+![App Screenshot](Lab1HW/screenshot.png)
 ## Features Implemented
 ### 1. Streaming Text Display
 * **Description:** I updated my `generateText` function to use
