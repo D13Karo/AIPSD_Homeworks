@@ -2,7 +2,7 @@
 ## Author
 [Your Name] - [Your KIU Email]
 ## Final Product Screenshot
-![App Screenshot](Lab1HW/screenshot.png)
+![App Screenshot](screenshot.png)
 ## Features Implemented
 ### 1. Streaming Text Display
 * **Description:** I updated my `generateText` function to use
