@@ -1,0 +1,10 @@
+2025-10-24 16:45:15,590 INFO: Loaded test_audio.m4a successfully, duration 60437 ms
+2025-10-24 16:45:22,321 INFO: Chunk 1 transcribed successfully
+2025-10-24 16:45:37,547 INFO: Chunk 2 transcribed successfully
+2025-10-24 16:45:42,154 INFO: Chunk 3 transcribed successfully
+2025-10-24 16:45:46,045 INFO: Chunk 4 transcribed successfully
+2025-10-24 16:45:51,681 INFO: Chunk 5 transcribed successfully
+2025-10-24 16:45:56,957 INFO: Chunk 6 transcribed successfully
+2025-10-24 16:45:57,579 WARNING: Chunk 7 could not be understood
+2025-10-24 16:45:57,581 INFO: Transcript saved to output_transcript.txt
+2025-10-24 16:46:01,654 INFO: Audio summary saved to output_summary.mp3
